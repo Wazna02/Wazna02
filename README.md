@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Fathima Wazna 👋
 
-<!--
-**Wazna02/Wazna02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate | GitHub Education Student  
+💻 C++ • Python • Java • SQL • Web Development  
+🤖 Exploring AI, Chatbots & Real-World Software Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- Computer Science undergraduate at **Albukhary International University**
+- Strong foundation in **C++ programming and OOP**
+- Experience with **databases (MySQL)** and **web technologies**
+- Interested in **AI-based systems**, chatbots, and intelligent applications
+- Actively preparing for **internships and real-world projects**
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** C, C++, Python, Java, SQL
+- **Web:** HTML, CSS
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** OOP, DBMS, Software Engineering Basics
+
+---
+
+## 📌 Current Focus
+- Building academic and personal projects on GitHub
+- Strengthening problem-solving and coding skills
+- Learning GitHub workflows and collaborative development
+- Exploring AI and chatbot development
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@Wazna02](https://github.com/Wazna02)
+
+✨ *Always learning. Always building.*
